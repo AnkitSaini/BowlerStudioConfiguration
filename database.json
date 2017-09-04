@@ -8,13 +8,14 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/c10875426fcd069ecbe1081a5cc2a2c5.git:HIDBowlerDevice.groovy": [
-      "https://gist.github.com/c10875426fcd069ecbe1081a5cc2a2c5.git",
-      "HIDBowlerDevice.groovy"
+    "https://github.com/AnkitSaini/double_rocker_bogie.git:robot_chasis.groovy": [
+      "https://github.com/AnkitSaini/double_rocker_bogie.git",
+      "robot_chasis.groovy"
     ]
   },
   "BowlerStudioConfigs": {
-    "fontsize": 12.0,
+    "firstVersion": "0.22.1",
+    "fontsize": 12,
     "skinBranch": "0.22.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
