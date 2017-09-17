@@ -8,9 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://github.com/AnkitSaini/double_rocker_bogie.git:robotChassis_DH_parameterized.groovy": [
+    "https://github.com/AnkitSaini/double_rocker_bogie.git:loading_stl.groovy": [
       "https://github.com/AnkitSaini/double_rocker_bogie.git",
-      "robotChassis_DH_parameterized.groovy"
+      "loading_stl.groovy"
     ],
     "https://github.com/AnkitSaini/double_rocker_bogie.git:robot_chasis.groovy": [
       "https://github.com/AnkitSaini/double_rocker_bogie.git",
